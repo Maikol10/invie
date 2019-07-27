@@ -1,2 +1,2 @@
 # invie
-pratica de git and github
+pratica de git and github la mejor cuestion
